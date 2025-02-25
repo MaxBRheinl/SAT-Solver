@@ -10,7 +10,3 @@ Run single test block:
 
 Run single test:
 ?- run_tests(cnf:to_cnf1).
-
-Run SAT benchmarks:
-swipl sat_benchmarks.pl
-?- run_benchmarks.
